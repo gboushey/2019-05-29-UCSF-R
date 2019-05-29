@@ -214,6 +214,16 @@ e.g., '2015-06-10-esu'.
 </p>
 {% endif %}
 
+<p id="data">
+<strong>Data:</strong>
+  <br/>
+  Here are links to the data we will be using for the workshop.
+  <ul>
+    <li>Unix Shell Data: <a href="http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip" download>shell-novice-data.zip</a></li>
+    <li>R Data: <a href="https://github.com/gboushey/2019-05-29-UCSF-R/blob/gh-pages/data/feline-data_v2.csv" download>Gapminder Dataset</a></li> (right mouse click -> “Save As/Save Link As”, or left mouse click -> File menu -> “Save Page As”)
+    <li>R Data: <a href="https://github.com/gboushey/2019-05-29-UCSF-R/blob/gh-pages/data/gapminder-FiveYearData.csv" download>Gapminder Dataset</a></li> (right mouse click -> “Save As/Save Link As”, or left mouse click -> File menu -> “Save Page As”)
+  </ul>
+</p>
 <hr/>
 
 {% comment %}
